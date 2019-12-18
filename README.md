@@ -7,7 +7,7 @@ In order to complete these tasks you will need your newly aquired knowledge of c
 * [Instructions](#instructions)
 * [Get Started](#get-started)
 
-## Instructions
+## Instructions.
 
 Find the file `index.js` and complete tasks 1, 2 and 3 until all of your tests pass.
 There is an additional task 4 which requires written explanations and has no tests.
